@@ -1,12 +1,15 @@
 # Homepage
 
 Mobile version
+
 ![](images/homepage-mobile-screenshot.png "") 
 
 Tablet version
+
 ![](images/homepage-tablet-screenshot.png "") 
 
 Desktop version
+
 ![](images/homepage-desktop-screenshot.png "") 
 
 
