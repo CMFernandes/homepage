@@ -8,11 +8,13 @@ Mobile version
 
 Tablet version
 
-![](images/homepage-tablet-screenshot.png "") 
+![](images/homepage-tablet-screenshot1.png "") 
+![](images/homepage-tablet-screenshot2.png "") 
 
 Desktop version
 
-![](images/homepage-desktop-screenshot.png "") 
+![](images/homepage-desktop-screenshot1.png "") 
+![](images/homepage-desktop-screenshot2.png "") 
 
 
 :point_right: [live demo](https://cmfernandes.github.io/homepage/) 
